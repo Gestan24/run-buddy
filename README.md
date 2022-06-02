@@ -1,4 +1,4 @@
-# run-buddy
+# Run Buddy Inc.
 
 
 
@@ -27,4 +27,4 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️ by Gestan 
 
 
-# Run Buddy Inc.
+### @2019 Run Buddy, Inc
