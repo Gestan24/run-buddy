@@ -240,11 +240,6 @@ section {
 
 /* Hero Style End */
 
-.intro {
-
-    text-align: center;
-
-}
 
 .intro p {
 
@@ -258,11 +253,11 @@ section {
 
     margin: 0 auto;
 
+    text-align: center;
+
 }
 
 .steps {
-
-    text-align: center;
 
     background: #fce138;
 
@@ -273,14 +268,16 @@ section {
     font-size: 55px;
 
     color: #024e76;
-
-    margin-bottom: 35px;
-
-    padding: 0 100px 20px 100px;
-
-    display: inline-block;
     
     border-bottom: 3px solid;
+
+    padding-bottom: 20px;
+
+    text-align: center;
+
+    margin: 0 auto 35px auto;
+
+    width: 50%;
 
 }
 
@@ -336,7 +333,7 @@ section {
 
 .trainers {
 
-    text-align: center;
+    
 
 }
 
@@ -415,8 +412,6 @@ section {
 
     background: #024e76;
 
-    text-align: center;
-
 }
 
 .contact h2 {
@@ -472,4 +467,10 @@ section {
 
     color: #fce138;
     
+}
+
+.flex-row {
+
+    display: flex;
+
 }
